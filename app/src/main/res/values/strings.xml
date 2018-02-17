@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Appartment Management</string>
+    <array name="spinnerIteams">
+        <item>ADMIN</item>
+        <item>USER</item>
+    </array>
+
+</resources>
