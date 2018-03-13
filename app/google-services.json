@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "659908870659",
+    "firebase_url": "https://apartment-management-e4797.firebaseio.com",
+    "project_id": "apartment-management-e4797",
+    "storage_bucket": "apartment-management-e4797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659908870659:android:63c245a0a4b46c78",
+        "android_client_info": {
+          "package_name": "com.example.harikrishnaa.appartmentmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659908870659-e159j2fh3k0sne98rti5gvfdspm693qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZVf94hSEJnHNMntAjkRL6t69glkxUoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

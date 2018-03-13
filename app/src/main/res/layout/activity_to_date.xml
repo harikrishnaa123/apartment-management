@@ -5,11 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.harikrishnaa.appartmentmanagement.To_date">
+
     <TextView
         android:id="@+id/tv2"
         android:layout_width="match_parent"
         android:layout_height="35dp"
-        android:text="select from date"
+        android:text="select end date"
         android:textAlignment="center"
         android:textSize="25dp" />
 
